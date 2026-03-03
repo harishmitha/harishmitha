@@ -52,8 +52,10 @@ I enjoy building practical IoT systems that connect hardware, data and cloud das
 - VS Code  
 - GanttPro  
 
-Currently Working On
+## Currently
 
-Improving how I structure and document projects
-Strengthening backend and system design fundamentals
-Learning how to build cleaner and more reliable automation systems
+Open to graduate and entry-level roles in IT, IoT and backend systems
+
+Improving project documentation and system design clarity
+
+Strengthening troubleshooting, backend and system fundamentalss
